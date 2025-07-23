@@ -2,6 +2,8 @@
 
 A lightweight RESTful API server built with **Express.js**, **MongoDB**, **CORS**, and **dotenv**. This server provides a foundation for building full-stack applications with secure and scalable backend support.
 
+npm install @smastrom/react-rating @stripe/react-stripe-js @stripe/stripe-js @tanstack/react-query axios firebase react react-dom react-icons react-id-swiper react-responsive-carousel react-router-dom react-tabs react-tooltip recharts sweetalert2 swiper
+
 ## 🧾 Table of Contents
 
 - [Features](#features)
